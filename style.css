@@ -13,6 +13,7 @@ body{
 h1{
     background: green;
     text-align: center;
+    color: white;
 }
 .menu-bar{
     background: green;

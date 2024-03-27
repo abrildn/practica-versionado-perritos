@@ -1,0 +1,11 @@
+*{
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-family: sans-serif;
+}
+img{
+    border-radius: 20px;
+}
